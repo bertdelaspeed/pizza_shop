@@ -1,0 +1,49 @@
+.navbar {
+  margin-top: 2rem;
+}
+
+.navbarContactBox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #3977db;
+  font-weight: 500;
+  color: #ffffff;
+  height: 60px;
+}
+
+.navbarContact {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.brandPizza {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #3977db;
+  border-radius: 50%;
+  margin-right: 16px;
+  font-size: 16px;
+  padding: 5px;
+}
+
+.brandPizza img {
+  padding-top: 10px;
+  height: 42px;
+  width: 42px;
+}
+
+@media only screen and (max-width: 600px) {
+  .brandPizza {
+    font-size: 12px;
+    text-align: center;
+    padding: 0;
+  }
+
+  .brandPizza img {
+    height: 32px;
+    width: 32px;
+  }
+}
