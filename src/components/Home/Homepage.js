@@ -91,7 +91,7 @@ export default function Homepage() {
       </div>
       <div className={styles.pizzaContainer}>
         {filteredPizzas < 1 ? (
-          <div className={styles.nopeContainer}>Sorry we don't have that </div>
+          <div className={styles.nopeContainer}>Sorry we do not have that </div>
         ) : (
           filteredPizzas.map((pizza) => (
             <div className={styles.pizzaItem} key={pizza.id}>
