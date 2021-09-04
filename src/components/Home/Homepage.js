@@ -19,7 +19,7 @@ export default function Homepage() {
       slug: "Meat Pizza",
       toppings: ["beef ", "sausage", ""],
       image:
-        "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_548340295.jpg.webp",
+        "https://images.unsplash.com/photo-1617343267017-e344bdc7ec94?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWVhdCUyMHBpenphfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       price: 6500,
     },
     {
@@ -28,7 +28,7 @@ export default function Homepage() {
       slug: "Veggie Pizza",
       toppings: ["pepper", "mushroom", "eggplant", "onion"],
       image:
-        "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_570541132.jpg.webp",
+        "https://images.unsplash.com/photo-1608424406467-ff8e17a1498e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dmVnZ2llJTIwcGl6emF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       price: 5000,
     },
     {
@@ -37,7 +37,7 @@ export default function Homepage() {
       slug: "Pepperoni Pizza",
       toppings: ["pepperoni"],
       image:
-        "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_514457074.jpg.webp",
+        "https://images.unsplash.com/photo-1605478371310-a9f1e96b4ff4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVwcGVyb25pJTIwcGl6emF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       price: 7000,
     },
     {
@@ -46,7 +46,7 @@ export default function Homepage() {
       slug: "Margherita Pizza",
       toppings: ["mozzarella cheeze"],
       image:
-        "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_347791016.jpg.webp",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFyZ2hlcml0YSUyMHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       price: 6000,
     },
     {
@@ -55,7 +55,7 @@ export default function Homepage() {
       slug: "BBQ Chicken Pizza",
       toppings: ["chicken "],
       image:
-        "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_184944413.jpg.webp",
+        "https://images.unsplash.com/photo-1592977731761-2d58aafef572?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpY2tlbiUyMHBpenphfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       price: 7500,
     },
     {
@@ -64,7 +64,7 @@ export default function Homepage() {
       slug: "Hawaiian Pizza",
       toppings: ["ham ", "pineapple"],
       image:
-        "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_313437680.jpg.webp",
+        "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aGF3YWlpYW4lMjBwaXp6YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       price: 8000,
     },
   ];
